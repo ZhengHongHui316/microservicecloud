@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="microservicecloud-api:war">
+    <output-path>$PROJECT_DIR$/microservicecloud-api/target</output-path>
+    <root id="archive" name="microservicecloud-api.war">
+      <element id="artifact" artifact-name="microservicecloud-api:war exploded" />
+    </root>
+  </artifact>
+</component>
