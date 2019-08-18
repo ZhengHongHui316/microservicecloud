@@ -1,0 +1,2 @@
+# microservicecloud
+在配置SpringCloud Config的Client端，如果启动失败的情况，先检查github配置中心仓库的yml文件是否语法错误，特别是那些空格错误，建议直接复制内容
